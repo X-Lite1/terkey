@@ -58,7 +58,7 @@ class Terkey:
       
   # If you choose default keys, this function will be executed.
   def standar(self):
-    key = "[[' F1 ', ' F2 ', ' F3 ', ' F4 ', ' F5 ', ' F6 ', ' F12 '], ['ESC', '/', '-', 'HOME', 'UP', 'END', 'PGUP'], ['TAB', 'CTRL', 'ALT', 'LEFT', 'DOWN', 'RIGHT', 'PGDN']]"
+    key = "[['F1','F2','F3','F4','F5','F6','F12'],['ESC','/','-','HOME','UP','END','PGUP'],['TAB','CTRL','ALT','LEFT','DOWN','RIGHT','PGDN']]"
     return key
   
   def about(self):
