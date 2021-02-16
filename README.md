@@ -1,18 +1,17 @@
-Tombol special termux ke 3
+#Tombol special termux
 
-1.pkg update & pkg upgrade
-
-2.pkg install python
-
-3.pkg install git
-
-4.git clone https://github.com/X-Lite1/terkey
-
-5.cd terkey
-
-6.python terkey.py
-
+```java
+pkg update & pkg upgrade
+pkg install python
+pkg install git
+git clone https://github.com/X-Lite1/terkey
+cd terkey
+python terkey.py
+```
 
 Kalik saru
-Selmat memakai
+Dan exit jika tombol pintasan termux nya kecil
+Dan masuk kembali otomatis tombol pintasan 
+termux pun akan melebar
+
 
