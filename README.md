@@ -10,7 +10,7 @@ python terkey.py
 ```
 
 Kalik saru
-Dan ```javaexit``` jika tombol pintasan termux nya 
+Dan ```exit``` jika tombol pintasan termux nya 
 
 kecil atau sempit
 
