@@ -10,8 +10,12 @@ python terkey.py
 ```
 
 Kalik saru
-Dan exit jika tombol pintasan termux nya kecil
+Dan ```javaexit``` jika tombol pintasan termux nya 
+
+kecil atau sempit
+
 Dan masuk kembali otomatis tombol pintasan 
+
 termux pun akan melebar
 
 
